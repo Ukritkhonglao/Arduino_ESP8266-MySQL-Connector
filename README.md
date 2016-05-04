@@ -24,7 +24,7 @@ The "Important Notes" page has important information in regards to requirements 
 
 Download and Install
 -------------------------------------------------
-MySQL Connector 1.0.5 can be found on [GitHub](https://github.com/smokeypell/Arduino_ESP8266-MySQL-Connector). To install, download the zip file, uncompress it, then copy the mysql-connector folder to your Libraries folder. Under Windows this would be "Documents/Arduino/libraries".
+MySQL Connector 1.0.5 can be found on [GitHub](https://github.com/smokeypell/Arduino_ESP8266-MySQL-Connector). To install, download the zip file, uncompress it, then copy the "Arduino_ESP8266-MySQL-Connector" folder to your Libraries folder. Under Windows this would be "Documents/Arduino/libraries".
 
 **Note:**
 * In order to be used with the Arduino, this library requires the SHA1 library. The SHA1 library can also be downloaded from GitHub [here](https://github.com/Cathedrow/Cryptosuite).
