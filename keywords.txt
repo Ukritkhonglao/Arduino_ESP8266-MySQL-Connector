@@ -1,0 +1,29 @@
+##########################################
+# Syntax Coloring Map For MySQL-Connector
+##########################################
+
+##########################################
+# Datatypes (KEYWORD1)
+##########################################
+
+Connector		KEYWORD1
+
+##########################################
+# Methods and Functions (KEYWORD2)
+##########################################
+
+cmd_query		KEYWORD2
+cmd_query_P   KEYWORD2
+mysql_connect	KEYWORD2
+show_results	KEYWORD2
+get_field		KEYWORD2
+get_row			KEYWORD2
+is_connected	KEYWORD2
+
+##########################################
+# Constants (LITERAL1)
+##########################################
+
+ok_packet		LITERAL1
+eof_packet		LITERAL1
+field_struct  LITERAL1
